@@ -30,23 +30,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### 💫 About Me
 
-```text
-const krishna = {
-  pronouns: "he/him",
-  location: "Vellore, Tamil Nadu, India 📍",
-  education: "Integrated M.Tech in CSE (Data Science) @ VIT Vellore (2023 - 2028)",
-  currentRole: "Software Developer @ Tvarly (Techieperk Tech Solutions)",
-  passions: ["Full-Stack Architecture", "Applied ML & LLMs", "Creative Web Interactions"],
-  hobbies: ["Genetic Algorithms", "Shaders & AR", "UI/UX Micro-interactions"],
-};
-```
+I'm a full-stack developer and data science student who builds things that live on the web and push the boundaries of interactivity.
 
-- 🔭 **Working on:** Scalable full-stack systems, RAG applications, and intelligent optimization algorithms.
-- 💼 **Experience:** Leading frontend & backend feature development at **Tvarly** (WhatsApp Cloud API integration, Mux adaptive video streaming).
-- 🌱 **Learning & Exploring:** Large Language Model pipelines, Genetic constraint satisfaction engines, and WebGL/ShaderLab.
-- 🎯 **Portfolio:** [profile-page-amber-gamma.vercel.app](https://profile-page-amber-gamma.vercel.app)
+- 💼 **Software Developer** at **Tvarly** — architecting full-stack features, high-throughput APIs, and performance-first web apps.
+- 🎓 Pursuing an **Integrated M.Tech in CSE (Data Science)** at **VIT Vellore** (2023 – 2028).
+- 🚀 Deeply interested in **LLM / RAG systems**, intelligent scheduling algorithms, and real-time architectures.
+- 🎨 Passionate about fluid UI/UX micro-interactions, procedural graphics, and creative engineering.
+- 📍 Based in **Vellore, Tamil Nadu, India**.
 
 ---
 
