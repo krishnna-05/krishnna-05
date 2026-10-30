@@ -34,11 +34,9 @@
 
 I'm a full-stack developer and data science student who builds things that live on the web and push the boundaries of interactivity.
 
-- 💼 **Software Developer** at **Tvarly** — architecting full-stack features, high-throughput APIs, and performance-first web apps.
-- 🎓 Pursuing an **Integrated M.Tech in CSE (Data Science)** at **VIT Vellore** (2023 – 2028).
-- 🚀 Deeply interested in **LLM / RAG systems**, intelligent scheduling algorithms, and real-time architectures.
-- 🎨 Passionate about fluid UI/UX micro-interactions, procedural graphics, and creative engineering.
-- 📍 Based in **Vellore, Tamil Nadu, India**.
+- Pursuing an **Integrated M.Tech in CSE (Data Science)** at **VIT Vellore** (2023 – 2028).
+- Passionate about fluid UI/UX micro-interactions, procedural graphics, and creative engineering.
+- Based in **Vellore, Tamil Nadu, India**.
 
 ---
 
